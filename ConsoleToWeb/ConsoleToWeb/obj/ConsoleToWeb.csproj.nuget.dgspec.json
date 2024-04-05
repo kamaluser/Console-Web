@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kamal\\Desktop\\ConsoleToWeb\\ConsoleToWeb\\ConsoleToWeb.csproj": {}
+    "C:\\Users\\kamal\\Desktop\\Console-Web\\ConsoleToWeb\\ConsoleToWeb\\ConsoleToWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kamal\\Desktop\\ConsoleToWeb\\ConsoleToWeb\\ConsoleToWeb.csproj": {
+    "C:\\Users\\kamal\\Desktop\\Console-Web\\ConsoleToWeb\\ConsoleToWeb\\ConsoleToWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamal\\Desktop\\ConsoleToWeb\\ConsoleToWeb\\ConsoleToWeb.csproj",
+        "projectUniqueName": "C:\\Users\\kamal\\Desktop\\Console-Web\\ConsoleToWeb\\ConsoleToWeb\\ConsoleToWeb.csproj",
         "projectName": "ConsoleToWeb",
-        "projectPath": "C:\\Users\\kamal\\Desktop\\ConsoleToWeb\\ConsoleToWeb\\ConsoleToWeb.csproj",
+        "projectPath": "C:\\Users\\kamal\\Desktop\\Console-Web\\ConsoleToWeb\\ConsoleToWeb\\ConsoleToWeb.csproj",
         "packagesPath": "C:\\Users\\kamal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamal\\Desktop\\ConsoleToWeb\\ConsoleToWeb\\obj\\",
+        "outputPath": "C:\\Users\\kamal\\Desktop\\Console-Web\\ConsoleToWeb\\ConsoleToWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
